@@ -9,7 +9,6 @@
 <div align="center">
   
   [![Linkedin Badge](https://img.shields.io/badge/-Mohammed%20Drioueche-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/driouechemed/)](https://www.linkedin.com/in/driouechemed/)
-  [![Twitter Badge](https://img.shields.io/badge/-DriouecheMed-1da1f2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/DriouecheMed)](https://twitter.com/DriouecheMed)
 
 </div>
 
