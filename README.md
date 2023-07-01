@@ -21,7 +21,6 @@ I program for fun and enjoy bringing code to life 😄.
 <img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width="270" align="right"/>
 </a>
 
-- **Hacker Test** An Android mobile app that helps developers to prepare for their tech interviews. 
 - **Flourvy** An Android mobile app that provides to users to read positive affirmations and receive daily positive affirmations notifications.
 
 
