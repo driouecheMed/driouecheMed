@@ -25,10 +25,12 @@ I program for fun and enjoy bringing code to life 😄.
 
 
 ## 
-<div>
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=driouecheMed&show_icons=true&locale=en&title_color=24292E&text_color=24292E&icon_color=24292E&layout=compact)
-![Mohammed Drioueche's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=driouecheMed&show_icons=true&title_color=24292E&text_color=24292E&icon_color=24292E)
+<div>
+  
+  ![Mohammed Drioueche's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=driouecheMed&show_icons=true&title_color=24292E&text_color=24292E&icon_color=24292E)
+  ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=driouecheMed&show_icons=true&locale=en&title_color=24292E&text_color=24292E&icon_color=24292E)
+
 </div>
 
 
