@@ -16,10 +16,11 @@ I program for fun and enjoy bringing code to life 😄.
 
 ## 
 ### Featured Projects:
-
 <a href='https://play.google.com/store/apps/developer?id=e_life' align="right">
 <img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width="270" align="right"/>
 </a>
+
+<br/>
 
 - **Flourvy** An Android mobile app that provides to users to read positive affirmations and receive daily positive affirmations notifications.
 
